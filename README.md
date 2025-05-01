@@ -29,7 +29,7 @@ A modern, interactive quiz application built with React that allows users to tes
 1. Clone the repository
 
    ```bash
-   git clone [your-repository-url]
+   git clone [[your-repository-url]](https://github.com/nyxsky404/trivia/)
    ```
 
 2. Navigate to the project directory
